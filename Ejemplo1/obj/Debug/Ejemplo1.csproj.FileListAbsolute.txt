@@ -1,0 +1,12 @@
+C:\Users\CBN\DiagramasPoo\Clases\Ejemplo1\bin\Debug\Ejemplo1.exe.config
+C:\Users\CBN\DiagramasPoo\Clases\Ejemplo1\bin\Debug\Ejemplo1.exe
+C:\Users\CBN\DiagramasPoo\Clases\Ejemplo1\bin\Debug\Ejemplo1.pdb
+C:\Users\CBN\DiagramasPoo\Clases\Ejemplo1\obj\Debug\Ejemplo1.csprojResolveAssemblyReference.cache
+C:\Users\CBN\DiagramasPoo\Clases\Ejemplo1\obj\Debug\Ejemplo1.exe
+C:\Users\CBN\DiagramasPoo\Clases\Ejemplo1\obj\Debug\Ejemplo1.pdb
+\\PC-26-SALA4\Users\CBN\Documents\Clases\Ejemplo1\obj\Debug\Ejemplo1.csprojResolveAssemblyReference.cache
+\\PC-26-SALA4\Users\CBN\Documents\Clases\Ejemplo1\obj\Debug\Ejemplo1.exe
+\\PC-26-SALA4\Users\CBN\Documents\Clases\Ejemplo1\bin\Debug\Ejemplo1.exe.config
+\\PC-26-SALA4\Users\CBN\Documents\Clases\Ejemplo1\bin\Debug\Ejemplo1.exe
+\\PC-26-SALA4\Users\CBN\Documents\Clases\Ejemplo1\bin\Debug\Ejemplo1.pdb
+\\PC-26-SALA4\Users\CBN\Documents\Clases\Ejemplo1\obj\Debug\Ejemplo1.pdb
